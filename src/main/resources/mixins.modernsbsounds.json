@@ -1,0 +1,20 @@
+{
+    "required": true,
+    "minVersion": "0.6",
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.stevekung.modernsbsounds.mixin",
+    "refmap": "mixins.modernsbsounds.refmap.json",
+    "mixins": [
+        "Block_3Mixin",
+        "EntityMixin",
+        "ItemBlockMixin",
+        "ItemSeedFoodMixin",
+        "ItemSeedsMixin",
+        "ItemSlabMixin",
+        "PlayerControllerMPMixin",
+        "RenderGlobalMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,399 @@
+{
+  "block.soul_sand.break": {
+    "sounds": [
+      "block/soul_sand/break1",
+      "block/soul_sand/break2",
+      "block/soul_sand/break3",
+      "block/soul_sand/break4",
+      "block/soul_sand/break5",
+      "block/soul_sand/break6",
+      "block/soul_sand/break7",
+      "block/soul_sand/break8",
+      "block/soul_sand/break9"
+    ]
+  },
+  "block.soul_sand.step": {
+    "sounds": [
+      "block/soul_sand/step1",
+      "block/soul_sand/step2",
+      "block/soul_sand/step3",
+      "block/soul_sand/step4",
+      "block/soul_sand/step5"
+    ]
+  },
+  "item.crop.plant": {
+    "sounds": [
+      {
+        "name": "item/plant/crop1",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop2",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop3",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop4",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop5",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop6",
+        "volume": 0.45
+      },
+      {
+        "name": "item/plant/crop1",
+        "volume": 0.45,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop2",
+        "volume": 0.45,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop3",
+        "volume": 0.45,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop4",
+        "volume": 0.45,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop5",
+        "volume": 0.45,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop6",
+        "volume": 0.45,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "block.crop.break": {
+    "sounds": [
+      {
+        "name": "block/bamboo/sapling_place1",
+        "volume": 0.9
+      },
+      {
+        "name": "block/bamboo/sapling_place2",
+        "volume": 0.9
+      },
+      {
+        "name": "block/bamboo/sapling_place3",
+        "volume": 0.9
+      },
+      {
+        "name": "block/bamboo/sapling_place4",
+        "volume": 0.9
+      },
+      {
+        "name": "block/bamboo/sapling_place5",
+        "volume": 0.9
+      },
+      {
+        "name": "block/bamboo/sapling_place6",
+        "volume": 0.9
+      }
+    ]
+  },
+  "item.nether_wart.plant": {
+    "sounds": [
+      {
+        "name": "item/plant/netherwart1",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart2",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart4",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart5",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.9
+      },
+      {
+        "name": "item/plant/netherwart1",
+        "volume": 0.9,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart2",
+        "volume": 0.9,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.9,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart4",
+        "volume": 0.9,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart5",
+        "volume": 0.9,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.9,
+        "pitch": 1.12
+      }
+    ]
+  },
+  "block.nether_wart.break": {
+    "sounds": [
+      {
+        "name": "item/plant/netherwart1",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart2",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart4",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart5",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.9,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "block.nether_bricks.break": {
+    "sounds": [
+      {
+        "name": "block/nether_bricks/break1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break4",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break5",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break6",
+        "volume": 0.8
+      }
+    ]
+  },
+  "block.nether_bricks.fall": {
+    "sounds": [
+      "block/nether_bricks/step1",
+      "block/nether_bricks/step2",
+      "block/nether_bricks/step3",
+      "block/nether_bricks/step4",
+      "block/nether_bricks/step5",
+      "block/nether_bricks/step6"
+    ]
+  },
+  "block.nether_bricks.hit": {
+    "sounds": [
+      "block/nether_bricks/step1",
+      "block/nether_bricks/step2",
+      "block/nether_bricks/step3",
+      "block/nether_bricks/step4",
+      "block/nether_bricks/step5",
+      "block/nether_bricks/step6"
+    ]
+  },
+  "block.nether_bricks.place": {
+    "sounds": [
+      {
+        "name": "block/nether_bricks/break1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break4",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break5",
+        "volume": 0.8
+      },
+      {
+        "name": "block/nether_bricks/break6",
+        "volume": 0.8
+      }
+    ]
+  },
+  "block.nether_bricks.step": {
+    "sounds": [
+      "block/nether_bricks/step1",
+      "block/nether_bricks/step2",
+      "block/nether_bricks/step3",
+      "block/nether_bricks/step4",
+      "block/nether_bricks/step5",
+      "block/nether_bricks/step6"
+    ]
+  },
+  "block.netherrack.break": {
+    "sounds": [
+      "block/netherrack/break1",
+      "block/netherrack/break2",
+      "block/netherrack/break3",
+      "block/netherrack/break4",
+      "block/netherrack/break5",
+      "block/netherrack/break6"
+    ]
+  },
+  "block.netherrack.fall": {
+    "sounds": [
+      "block/netherrack/step1",
+      "block/netherrack/step2",
+      "block/netherrack/step3",
+      "block/netherrack/step4",
+      "block/netherrack/step5",
+      "block/netherrack/step6"
+    ]
+  },
+  "block.netherrack.hit": {
+    "sounds": [
+      {
+        "name": "block/netherrack/step1",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step2",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step3",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step4",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step5",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step6",
+        "volume": 0.55
+      }
+    ]
+  },
+  "block.netherrack.place": {
+    "sounds": [
+      "block/netherrack/break1",
+      "block/netherrack/break2",
+      "block/netherrack/break3",
+      "block/netherrack/break4",
+      "block/netherrack/break5",
+      "block/netherrack/break6"
+    ]
+  },
+  "block.netherrack.step": {
+    "sounds": [
+      "block/netherrack/step1",
+      "block/netherrack/step2",
+      "block/netherrack/step3",
+      "block/netherrack/step4",
+      "block/netherrack/step5",
+      "block/netherrack/step6"
+    ]
+  },
+  "block.nether_ore.break": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ]
+  },
+  "block.nether_ore.fall": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ]
+  },
+  "block.nether_ore.hit": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ]
+  },
+  "block.nether_ore.place": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ]
+  },
+  "block.nether_ore.step": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ]
+  }
+}
